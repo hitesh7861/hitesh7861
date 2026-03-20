@@ -54,8 +54,6 @@ I work on large-scale pipelines, event-driven architectures, and AI-integrated s
 **Projects**
 
 - [hackerone-intelligence-platform](https://github.com/hitesh7861/hackerone-intelligence-platform) — Enterprise vulnerability intelligence platform with AI-driven analytics
-- [Incident Bridge & Alert Flow](#) — Spring Boot microservice with Claude AI for automated incident resolution (93% faster RCA)
-- [Retail Price Analytics Pipeline](#) — Medallion ELT data lake (Bronze/Silver/Gold) with Airflow, DBT, DuckDB & MinIO
 - [CNN](https://github.com/hitesh7861/CNN) — Image classification using Keras + TensorFlow
 
 ---
