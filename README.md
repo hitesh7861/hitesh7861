@@ -49,6 +49,6 @@ I work on large-scale pipelines, event-driven architectures, and AI-integrated s
 - [Retail Price Analytics Pipeline](#) — Medallion ELT data lake (Bronze/Silver/Gold) with Airflow, DBT, DuckDB & MinIO
 - [CNN](https://github.com/hitesh7861/CNN) — Image classification using Keras + TensorFlow
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitesh7861&show_icons=true&theme=dark&hide_border=true)
