@@ -3,7 +3,7 @@
 Software engineer focused on data engineering, distributed systems, and backend development.
 I work on large-scale pipelines, event-driven architectures, and AI-integrated systems.
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -36,13 +36,13 @@ I work on large-scale pipelines, event-driven architectures, and AI-integrated s
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20AI-6B4FBB?style=flat&logo=anthropic&logoColor=white)
 
-## 🔭 What I'm working on
+## What I'm working on
 
 - Event-driven microservices and distributed data systems
 - AI-integrated backend applications
 - Data pipeline design and observability
 
-## 📌 Projects
+## Projects
 
 - [hackerone-intelligence-platform](https://github.com/hitesh7861/hackerone-intelligence-platform) — Enterprise vulnerability intelligence platform with AI-driven analytics
 - [Incident Bridge & Alert Flow](#) — Spring Boot microservice with Claude AI for automated incident resolution (93% faster RCA)
