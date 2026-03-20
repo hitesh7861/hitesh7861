@@ -1,6 +1,6 @@
 # Hey, I'm Hitesh 👋
 
-Software engineer focused on data engineering, distributed systems, and backend development.
+Senior Software engineer focused on data engineering, distributed systems, and backend development.
 I work on large-scale pipelines, event-driven architectures, and AI-integrated systems.
 
 ---
